@@ -1,0 +1,2 @@
+This is our implementation of using ECG data to classify congestive heart failure. The AlexNet, at 40 epochs, trains consistently at ~75% accuracy, whereas the MsNet, at 40 epochs, trains consistently to ~82% accuracy. 
+The members of our project are: Yujin Chung (ychung36), Jinqian Li (jli633), and Zeming Liu (zliu236).
